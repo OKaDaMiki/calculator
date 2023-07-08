@@ -27,8 +27,7 @@ console.log(btn);
 btn.addEventListener("click",() => {
     console.log(Number(num1.value));
     console.log(Number(num2.value));
-    ans.value = Number(num1.value) + Number(num2.value)
-    
+    ans.value = Number(num1.value) + Number(num2.value)  
 });
 
 // どこに　なにをする　を書く

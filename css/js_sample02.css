@@ -1,0 +1,7 @@
+*{
+    border: solid 2px skyblue;
+}
+.btn{
+    border-radius: 20px;
+    font-size: 14px;
+}
