@@ -7,7 +7,7 @@
 #txbox #num1,#num2,#ans{
     width: 200px;
     height: 30px;
-    margin: 7px;
+    margin: 10px;
 }
 #btns #btn1,#btn2,#btn3,#btn4,#btn5{
     border-radius: 30px;
@@ -16,6 +16,7 @@
     color: lightseagreen;
     width: 30px;
     height: 30px;
+    margin: 2px;
 }
 #btn1:hover {
     background-color : skyblue;
